@@ -40,6 +40,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 ## Makeing a Task List
 
-- [ ] Turn on GitHub Pages
+- [X] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
